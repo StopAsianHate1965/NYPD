@@ -30,3 +30,8 @@ We are all crabs in a bucket.
 
 PS:
 Let us not forget that while we often focus on race, class tensions are likely also a contribution.
+
+Other Posts
+https://boards.4chan.org/pol/thread/494110446
+https://boards.4chan.org/b/thread/929917571
+https://imgur.com/gallery/h-te-cr-me-statistics-from-n-pd-2020-2023-7eQd0rJ
