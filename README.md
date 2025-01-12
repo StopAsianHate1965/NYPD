@@ -26,4 +26,4 @@ APIDA individuals should not be the buffer zone punching bags, absorbing the ani
 We are all crabs in a bucket.
 
 PS:
-let us now forget that while we often focus on race, class tensions are likely also a contribution.
+Let us not forget that while we often focus on race, class tensions are likely also a contribution.
