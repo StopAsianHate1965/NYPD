@@ -1,5 +1,8 @@
 READ ME
-This is a repository on anti-asian hate in NYC. I have examined two sources, #1 is a national paper and #2 is NYPD's own data. I am an anonymous amateur. Feel free to do your own research.
+This is a repository on anti-asian hate in NYC. 
+https://github.com/StopAsianHate1965/NYPD.git
+
+I have examined two sources, #1 is a national paper and #2 is NYPD's own data. I am an anonymous amateur. Feel free to do your own research.
 
 First Source:
 There was a national study done on hate crimes, looking at similarities and differences.
